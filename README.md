@@ -3,7 +3,7 @@
 Projet pour une cantine, permettant d'effectuer un CRUD le menu et les plats et des recherches en fonction du nom des plats
 
 ## Les étapes d'installation de l'application :
-- Ouvrer un terminal puis cloner le lien github de l'application : git clone https://github.com/PaulEkra/-GestCantineADA.git
+- Ouvrer un terminal puis cloner le lien github de l'application : git clone https://github.com/PaulEkra/GestCantineADA.git
 - Créer un environnement virtuel dans le repertoire ( python ou python3 pour Unix/MacOs -m venv nom_environnement de prefence venv ou env)
 - Naviguer vers le fichier activate.bat soit dans scripts ou bin, puis activer l'environnement (source activate pour Unix/MacoS ou activate pour windows)
 - Revener au dossier de base de votre projet puis installer les dépendances de l'application à partir du fichier requirements.txt (pip(Windows) ou pip3(Unix/Mac) install -r requirements.txt)
